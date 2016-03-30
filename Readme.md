@@ -2,6 +2,9 @@
 
 This App is made as an homework.
 
+![contacts ](https://github.com/KrisYu/iOSContactsApp/blob/master/add.gif)
+
+[gif][]
 It is made to accommodate the requirements of one homework. So it didn't use some regulations of iOS development, also this tutorial is a reminder for myself.
 
 It is largely learned from Apple [Start Developing iOS Apps(Swift)][id]
